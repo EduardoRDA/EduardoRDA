@@ -19,5 +19,5 @@ Skills: JAVA / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRDA&theme=github_dark_icons=true)
 
-![GitHub metrics](https://metrics.lecoq.io/EduardoRDA)  
+![GitHub metrics](https://metrics.lecoq.io/EduardoRDA&theme=github_dark_icons=true)  
 

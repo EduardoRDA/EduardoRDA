@@ -14,7 +14,7 @@ https://icongr.am/devicon/linkedin-original.svg?size=65&color=currentColor
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRDA&theme=dark)
 
-![GitHub metrics](https://metrics.lecoq.io/EduardoRDA&theme=dark)  
+![GitHub metrics](https://metrics.lecoq.io/api?username=EduardoRDA&theme=dark)  
 
 
 

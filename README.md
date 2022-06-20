@@ -8,7 +8,7 @@ Skills: JAVA / JS / HTML / CSS
 - 🛠 Página em construção...
 
 
-https://icongr.am/devicon/linkedin-original.svg?size=65&color=currentColor
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-rodrigues-3a7352160//)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRDA&theme=dark)
 

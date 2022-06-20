@@ -14,7 +14,7 @@ Skills: JAVA / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRDA)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRDA&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/EduardoRDA)  
 
